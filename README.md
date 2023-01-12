@@ -1,6 +1,8 @@
-# flutter_application_1
+# Flutter Demo App
 
-A new Flutter project.
+Simple demo application using Flutter.
+
+Flutter is an open-source UI software development kit created by Google. It is used to develop cross-platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia and the web from a single codebase.
 
 ## Getting Started
 
@@ -8,7 +10,6 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
